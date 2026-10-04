@@ -39,7 +39,7 @@ Sprint 1 มุ่งเน้นการวางโครงสร้าง�
 | สมาชิก | บทบาท | ขอบเขตความรับผิดชอบหลัก |
 | :--- | :--- | :--- |
 | **วาเรน** | Planner | วางแผนงาน วางโครงสร้าง Scope ของ Sprint 1 กำหนด Requirements และประสานงาน |
-| **ฟีฟ่า** | Coder | ออกแบบ Architecture พัฒนาโค้ดและ Main Logic เขียนฟังก์ชันหลักทั้งหมดของ CLI Application |
+| **ฟีฟ่า** | Coder | เขียนฟังก์ชันหลักทั้งหมดของ CLI Application |
 | **โดนัท** | Debugger | ทดสอบระบบ (QA Testing) ตรวจสอบ Bugs ปรับแต่ง Exception Handling และยืนยันความถูกต้องของผลลัพธ์ |
 | **ภีม** | Coder | ออกแบบ Architecture พัฒนาโค้ดและ Main Logic |
 
